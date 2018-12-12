@@ -1,2 +1,0 @@
-# chores
-Begin app
